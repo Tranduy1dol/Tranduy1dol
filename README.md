@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tran Duy from UET, VNU Ha Noi.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Tran Duy from UET, VNU Ha Noi.<br><br>- 🔭 I’m working as freelance developer<br>- 📚 I'm currently learning blockchain, zkp..<br>- ⚡ In my free time I read books, code,...</p>
 
 ###
 
