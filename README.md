@@ -11,12 +11,9 @@
   <a href="https://x.com/tranduy1dol" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tranduy1dol.Tranduy1dol&"  />
+  <a href="https://tranduy1dol.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=blog&label=&color=FF7F50&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
