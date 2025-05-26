@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Tran Duy from UET, VNU Ha Noi.<br><br>- 🔭 I’m opening to work as Backend Developer, Blockchain-ZKP-Rust Developer & Resercher.<br>- 📚 I'm currently learning blockchain, zkp...<br>- ⚡ In my free time I read books, code, listen to music, paint,...</p>
+<p align="left">I'm Tran Duy from UET, VNU Ha Noi.<br><br>- 🔭 I’m opening to work as Backend Developer, Blockchain-ZKP-Rust Developer & Researcher.<br>- 📚 I'm currently learning blockchain, zkp...<br>- ⚡ In my free time I read books, code, listen to music, paint,...</p>
 
 ###
 
